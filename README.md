@@ -22,4 +22,4 @@ The code uses the RadioHead library to implement a mesh network protocol for LoR
 
 ## Dependencies
 
-- [RadioHead Library]
+- [http://www.airspayce.com/mikem/arduino/RadioHead/]
